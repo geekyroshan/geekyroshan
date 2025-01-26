@@ -4,7 +4,7 @@ Hi 👋 My name is Roshan Kharel
 Blockchain Developer
 --------------------
 
-I'm a Blockchain Developer. I do have a keen interest in Web 3.
+I'm a Blockchain Developer. I have a keen interest in Web 3.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [connectwithroshann@gmail.com](mailto:connectwithroshann@gmail.com)
